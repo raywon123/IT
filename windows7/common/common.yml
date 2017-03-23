@@ -1,0 +1,6 @@
+-- name: Common
+   hosts:
+
+   roles:
+     - install
+     - printer 
